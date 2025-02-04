@@ -1,5 +1,4 @@
 <header>
-
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -7,7 +6,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+###### It needs a space
 # Communicate using Markdown
+# This is my big header
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
@@ -64,6 +65,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+I added a couple of headers
 
 <footer>
 
